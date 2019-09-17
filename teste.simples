@@ -1,0 +1,14 @@
+programa teste
+    inteiro vetor[4]
+    inicio
+         vetor[0] <- 2
+	 vetor[1] <- 4
+	 vetor[2] <- vetor[0] + vetor[1]
+	se  vetor[0] > vetor[1]
+	entao	
+escreva vetor[2]
+senao 
+escreva 2
+fimse
+
+fimprograma
